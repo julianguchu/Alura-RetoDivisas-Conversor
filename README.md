@@ -18,6 +18,6 @@ Ya habiendo importado el proyecto de este repositorio a un IDE como eclipse o sp
 6. los seleccionamos  y damos en el boton de "abrir".
 7. por ultimo  damos en el boton de "Appy" y es todo.
 
-ya con esto podremos ejercutar normalmente la aplicación.
+ya con esto podremos ejecutar normalmente la aplicación.
 
 -----------------------------------------------------------------------------------------------------------------------
