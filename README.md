@@ -1,6 +1,6 @@
 Conversor de divisas , desarrollado en java con arquitectura MVC, haciendo uso de la librería Swing para GUI.
 El programa utiliza un api público para consultar al momento el valor de las divisas a convertir. Este tiene un limitante de consulta de 250 peticiones mensuales
---------------------------------------   NOTA IMPORTANTE-------------------------------------------------------------------
+-------------------------   NOTA IMPORTANTE----------------------------------------------------
 
 Para poder ejecutar el proyecto, es necesario añadir los siguientes  jars como "References libraries " dentro de nuestro workspace:  jackson-core-2.11.1.jar , jackson-databind-2.11.1.jar  y  jackson-annotations-2.11.1.jar.
 
@@ -18,4 +18,6 @@ Ya habiendo importado el proyecto de este repositorio a un IDE como eclipse o sp
 6. los seleccionamos  y damos en el boton de "abrir".
 7. por ultimo  damos en el boton de "Appy" y es todo.
 
---------------------------------------------------------------------------------------------------------------------------
+ya con esto podremos ejercutar normalmente la aplicación.
+
+-----------------------------------------------------------------------------------------------------------------------
