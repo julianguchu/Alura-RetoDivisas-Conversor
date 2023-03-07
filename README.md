@@ -13,9 +13,9 @@ Ya habiendo importado el proyecto de este repositorio a un IDE como eclipse o sp
 
 2. click en  propiedades.
 3. buscamos en el menu de la izquierda "Java Build Path "  y seleccionamos esa opción
-4. al lado derecho encontraremos  un boton llamada "Add external JARS" y damos click alli.
-5. inmediatamente se abrira una ventana para escoger para que nos ubiquemos donde tengamos guardados en nuestra maquina estos tres archivos jas:  jackson-core-2.11.1.jar , jackson-databind-2.11.1.jar  y  jackson-annotations-2.11.1.jar.
-6. los seleccionamos  y damos en el boton de abrir.
-7. por ultimo  damos en el boton de Appy y es todo.
+4. al lado derecho encontraremos  un boton llamada "Add external JARS" y damos click allí.
+5. inmediatamente se abrirá una ventana para que nos ubiquemos donde tengamos guardados en nuestra maquina estos tres archivos jar:  jackson-core-2.11.1.jar , jackson-databind-2.11.1.jar  y  jackson-annotations-2.11.1.jar.
+6. los seleccionamos  y damos en el boton de "abrir".
+7. por ultimo  damos en el boton de "Appy" y es todo.
 
 --------------------------------------------------------------------------------------------------------------------------
